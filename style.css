@@ -1,0 +1,36 @@
+html {
+  font-size: 10px;
+  font-family: 'Verdana', sans-serif;
+}
+
+
+h1 {
+  font-size: 12px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #b6bcfc;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #fcfae3;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+h1 {
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
