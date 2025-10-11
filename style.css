@@ -21,7 +21,7 @@ html {
 
 body {
   width: 800px;
-  margin: 0.5em auto 2em;
+  margin: 0.2em auto 2em;
   background-color: #fcfae3;
   padding: 0 20px 20px 20px;
   border: 1px solid black;
@@ -30,7 +30,16 @@ body {
 h1 {
 }
 
+code {
+  color: #DC143C; 
+}
+
+pre {
+  color: #040ecc;
+  /* overflow-x: auto; */ /* Adds horizontal scroll if content overflows */
+}
+
 img {
-  display: block;
+  max-width: 50%;	
   margin: 0 auto;
 }
