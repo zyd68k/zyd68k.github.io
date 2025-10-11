@@ -36,10 +36,11 @@ code {
 
 pre {
   color: #DC143C;
-  /* overflow-x: auto; */ /* Adds horizontal scroll if content overflows */
+/*overflow-x: auto; Adds horizontal scroll if content overflows */
 }
 
 img {
   max-width: 50%;	
   margin: 0 auto;
 }
+
