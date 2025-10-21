@@ -1,0 +1,51 @@
+html {
+  font-size: 12px;
+  font-family: 'Verdana', sans-serif;
+  background-color: #040485;
+}
+
+h1 {
+  font-size: 14px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 1000px;
+  margin: 0.2em auto 2em;
+  background-color: #1616c7;
+  padding: 0 95px 10px 95px;
+  border: 1px solid black;
+  color: aquamarine;
+}
+
+code { /*inline code*/
+  color: yellow; 
+}
+
+pre {
+  color: yellow;
+  margin: 0px 0px 0px -80px;
+/*overflow-x: auto; Adds horizontal scroll if content overflows */
+}
+
+img {
+  width: 50%;	
+  display: block;
+  margin: 0% auto; 
+  border: 0.5px solid blue;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5em 2em 2em;
+}
+
+a:link {
+  color: lime;
+}
