@@ -31,6 +31,9 @@ pre {
   color: yellow;
   margin: 0px 0px 0px -80px;
 /*overflow-x: auto; Adds horizontal scroll if content overflows */
+  font-size: 10px;
+  font-family: 'Lucida Console', monospace;
+  letter-spacing: 1px;
 }
 
 img {
