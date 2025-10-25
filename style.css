@@ -1,7 +1,7 @@
 html {
   font-size: 13px;
   font-family: 'Verdana', sans-serif;
-  background-color: #040485;
+  background-color: dimgrey;
 }
 
 h1 {
@@ -17,18 +17,18 @@ p, li {
 body {
   width: 1100px;
   margin: 0.2em auto 2em;
-  background-color: #1616c7;
+  background-color: tan;
   padding: 0 95px 10px 95px;
   border: 1px solid black;
-  color: aquamarine;
+  color: black;
 }
 
 code { /*inline code*/
-  color: yellow; 
+  color: darkblue; 
 }
 
 pre {
-  color: yellow;
+  color: darkblue;
   margin: 0px 0px 0px -80px;
 /*overflow-x: auto; Adds horizontal scroll if content overflows */
   font-size: 12px;
@@ -50,5 +50,5 @@ footer {
 }
 
 a {
-  color: lime;
+  color: maroon;
 }
