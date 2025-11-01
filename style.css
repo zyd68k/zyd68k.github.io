@@ -35,7 +35,8 @@ pre {
   color: lightyellow;
   margin: auto;
 /*  margin: 0px 0px 0px -80px; */
-/*overflow-x: auto; Adds horizontal scroll if content overflows */
+  overflow-x: auto; 
+  white-space: pre;
   font-size: 12px;
   font-family: 'Lucida Console', monospace;
   letter-spacing: 1px;
