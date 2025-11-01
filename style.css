@@ -58,3 +58,7 @@ footer {
 a {
   color: aquamarine;
 }
+
+hr {
+  border: none;
+}
