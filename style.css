@@ -1,7 +1,7 @@
 html {
   font-size: 13px;
   font-family: 'Verdana', sans-serif;
-  background-color: white;
+  background-color: khaki;
 }
 
 h1 {
@@ -21,7 +21,7 @@ p, li {
 body {
   width: 1100px;
   margin: 0.2em auto 2em;
-  background-color: whitesmoke;
+  background-color: lightyellow;
   padding: 0 95px 15px 95px;
   border: 1px solid lightgray;
   color: black;
