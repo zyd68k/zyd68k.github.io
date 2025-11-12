@@ -1,7 +1,7 @@
 html {
   font-size: 13px;
   font-family: 'Verdana', sans-serif;
-  background-color: khaki;
+  background-color: paleturquoise;
 }
 
 h1 {
@@ -21,9 +21,9 @@ p, li {
 body {
   width: 1100px;
   margin: 0.2em auto 2em;
-  background-color: lightyellow;
+  background-color: whitesmoke;
   padding: 0 95px 15px 95px;
-  border: 1px solid gold;
+  border: 1px solid orange;
   color: black;
 }
 
