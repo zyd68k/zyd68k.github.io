@@ -1,7 +1,7 @@
 html {
   font-size: 13px;
   font-family: 'Verdana', sans-serif;
-  background-color: paleturquoise;
+  background-color: mediumseagreen;
 }
 
 h1 {
@@ -23,7 +23,7 @@ body {
   margin: 0.2em auto 2em;
   background-color: whitesmoke;
   padding: 0 95px 15px 95px;
-  border: 1px solid orange;
+  border: 1px solid blue;
   color: black;
 }
 
