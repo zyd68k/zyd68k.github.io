@@ -25,7 +25,7 @@ body {
   padding: 0 95px 15px 95px;
   border: 1px solid black;
   color: black;
-  box-shadow: 0 0 6px 3px dimgray;
+/*  box-shadow: 0 0 6px 3px dimgray; */
 }
 
 code { /*inline code*/
