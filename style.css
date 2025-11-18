@@ -21,10 +21,11 @@ p, li {
 body {
   width: 1100px;
   margin: 0.2em auto 2em;
-  background-color: cornsilk;
+  background-color: #ebfff8;
   padding: 0 95px 15px 95px;
-  border: 1px solid dimgray;
+  border: 1px solid black;
   color: black;
+  box-shadow: 0 0 6px 3px dimgray;
 }
 
 code { /*inline code*/
