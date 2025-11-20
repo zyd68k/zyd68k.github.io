@@ -54,7 +54,7 @@ img {
 footer {
   display: flex;
   justify-content: center;
-  padding: 6em 2em 2em;
+  padding: 8em 2em 2em;
   font-size: 10px;
   color: darkslateblue;
 }
